@@ -1,7 +1,7 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Obsidian</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 21 Sep 2024 04:05:51 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 21 Sep 2024 04:05:51 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[index]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Obsidian</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 21 Sep 2024 04:24:51 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 21 Sep 2024 04:24:51 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[index]]></title><description><![CDATA[ 
  <br>
-<br><a data-href="زبان‌های خارجی" href="contents/زبان‌های-خارجی.html" class="internal-link" target="_self" rel="noopener">زبان‌های خارجی</a>
-]]></description><link>contents/index.html</link><guid isPermaLink="false">Contents/index.md</guid><pubDate>Fri, 20 Sep 2024 10:35:11 GMT</pubDate></item><item><title><![CDATA[العربیه]]></title><description><![CDATA[ 
+<br><a data-href="docs/زبان‌های خارجی" href="docs/زبان‌های-خارجی.html" class="internal-link" target="_self" rel="noopener">docs/زبان‌های خارجی</a>
+]]></description><link>docs/index.html</link><guid isPermaLink="false">docs/index.md</guid><pubDate>Sat, 21 Sep 2024 04:24:43 GMT</pubDate></item><item><title><![CDATA[العربیه]]></title><description><![CDATA[ 
  <br>
 <br>
 ۱۲۹ داستان کوتاه عربی فارسی .. شرمین نظربیگی
@@ -33,7 +33,7 @@
 <br>
 (مهما) .. Albaheth .. یوتیوب
 
-]]></description><link>contents/العربیه.html</link><guid isPermaLink="false">Contents/العربیه.md</guid><pubDate>Tue, 10 Sep 2024 03:21:33 GMT</pubDate></item><item><title><![CDATA[خارجکی (Languages) (یادگیری زبان دوم)]]></title><description><![CDATA[ 
+]]></description><link>docs/العربیه.html</link><guid isPermaLink="false">docs/العربیه.md</guid><pubDate>Tue, 10 Sep 2024 03:21:33 GMT</pubDate></item><item><title><![CDATA[خارجکی (Languages) (یادگیری زبان دوم)]]></title><description><![CDATA[ 
  <br>
 <br>امکانات
 
@@ -58,7 +58,7 @@
 <br>بوسو
 
 
-]]></description><link>contents/خارجکی-(languages)-(یادگیری-زبان-دوم).html</link><guid isPermaLink="false">Contents/خارجکی (Languages) (یادگیری زبان دوم).md</guid><pubDate>Wed, 28 Aug 2024 03:12:23 GMT</pubDate></item><item><title><![CDATA[راهنمای خودآموزی زبان انگلیسی]]></title><description><![CDATA[ 
+]]></description><link>docs/خارجکی-(languages)-(یادگیری-زبان-دوم).html</link><guid isPermaLink="false">docs/خارجکی (Languages) (یادگیری زبان دوم).md</guid><pubDate>Wed, 28 Aug 2024 03:12:23 GMT</pubDate></item><item><title><![CDATA[راهنمای خودآموزی زبان انگلیسی]]></title><description><![CDATA[ 
  <br>
 <br>
 <a data-href="نکات کلی" href="۱-شخصی/نکات-کلی.html" class="internal-link" target="_self" rel="noopener">نکات کلی</a>
@@ -99,9 +99,9 @@
 <br>
 لهجه
 
-]]></description><link>contents/راهنمای-خودآموزی-زبان-انگلیسی.html</link><guid isPermaLink="false">Contents/راهنمای خودآموزی زبان انگلیسی.md</guid><pubDate>Tue, 10 Sep 2024 03:21:33 GMT</pubDate></item><item><title><![CDATA[زبان‌های خارجی]]></title><description><![CDATA[ 
+]]></description><link>docs/راهنمای-خودآموزی-زبان-انگلیسی.html</link><guid isPermaLink="false">docs/راهنمای خودآموزی زبان انگلیسی.md</guid><pubDate>Tue, 10 Sep 2024 03:21:33 GMT</pubDate></item><item><title><![CDATA[زبان‌های خارجی]]></title><description><![CDATA[ 
  <br>
-<br><a data-href="راهنمای خودآموزی زبان انگلیسی" href="contents/راهنمای-خودآموزی-زبان-انگلیسی.html" class="internal-link" target="_self" rel="noopener">راهنمای خودآموزی زبان انگلیسی</a>
-<br><a data-href="خارجکی (Languages) (یادگیری زبان دوم)" href="contents/خارجکی-(languages)-(یادگیری-زبان-دوم).html" class="internal-link" target="_self" rel="noopener">خارجکی (Languages) (یادگیری زبان دوم)</a>
-<br><a data-href="العربیه" href="contents/العربیه.html" class="internal-link" target="_self" rel="noopener">العربیه</a>
-]]></description><link>contents/زبان‌های-خارجی.html</link><guid isPermaLink="false">Contents/زبان‌های خارجی.md</guid><pubDate>Wed, 28 Aug 2024 03:28:04 GMT</pubDate></item></channel></rss>
+<br><a data-href="docs/راهنمای خودآموزی زبان انگلیسی" href="docs/راهنمای-خودآموزی-زبان-انگلیسی.html" class="internal-link" target="_self" rel="noopener">docs/راهنمای خودآموزی زبان انگلیسی</a>
+<br><a data-href="docs/خارجکی (Languages) (یادگیری زبان دوم)" href="docs/خارجکی-(languages)-(یادگیری-زبان-دوم).html" class="internal-link" target="_self" rel="noopener">docs/خارجکی (Languages) (یادگیری زبان دوم)</a>
+<br><a data-href="docs/العربیه" href="docs/العربیه.html" class="internal-link" target="_self" rel="noopener">docs/العربیه</a>
+]]></description><link>docs/زبان‌های-خارجی.html</link><guid isPermaLink="false">docs/زبان‌های خارجی.md</guid><pubDate>Sat, 21 Sep 2024 04:24:43 GMT</pubDate></item></channel></rss>
